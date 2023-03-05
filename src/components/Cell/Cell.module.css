@@ -1,0 +1,51 @@
+.cell {
+	height: 16px;
+	flex: 0 1 16px;
+	overflow: hidden;
+	float: left;
+	background: url(../../img/sprite.png);
+}
+
+.default {
+	background-position: 0px -51px;
+}
+
+.flag {
+	background-position: -34px -51px;
+}
+
+.questionMark {
+	background-position: -51px -51px;
+}
+
+.disabled {
+	background-position: -17px -51px;
+}
+
+.mine {
+	background-position: -85px -51px;
+}
+
+.finishMine {
+	background-position: -102px -51px;
+}
+
+.one {
+	background-position: 0 -68px;
+}
+
+.two {
+	background-position: -17px -68px;
+}
+
+.three {
+	background-position: -34px -68px;
+}
+
+.four {
+	background-position: -51px -68px;
+}
+
+.five {
+	background-position: -68px -68px;
+}
