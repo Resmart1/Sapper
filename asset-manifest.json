@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/https//Resmart1.github.io/sapper/static/css/main.0c456a2c.css",
+    "main.js": "/https//Resmart1.github.io/sapper/static/js/main.c6bd5e1a.js",
+    "index.html": "/https//Resmart1.github.io/sapper/index.html",
+    "main.0c456a2c.css.map": "/https//Resmart1.github.io/sapper/static/css/main.0c456a2c.css.map",
+    "main.c6bd5e1a.js.map": "/https//Resmart1.github.io/sapper/static/js/main.c6bd5e1a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0c456a2c.css",
+    "static/js/main.c6bd5e1a.js"
+  ]
+}
